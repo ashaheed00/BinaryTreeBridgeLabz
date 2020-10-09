@@ -1,3 +1,3 @@
 # Binary Search Tree BridgeLabz
-## Version UC2
-#### Ability to add more elements and get size of the tree 
+## Version UC3
+#### Ability to search through the Binary Tree and return the element 
